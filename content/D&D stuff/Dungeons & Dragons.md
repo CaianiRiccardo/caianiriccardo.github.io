@@ -17,7 +17,7 @@ tags: []
 
 # Mondi e ambientazioni
 
-- [Il mondo di Reas'Dolm](_Il%20mondo%20di%20Reas'Dolm.md) 
+- [Il mondo di Reas'Dolm](Il%20mondo%20di%20Reas'Dolm.md) 
 [[aaa]]
 # Campagne
 

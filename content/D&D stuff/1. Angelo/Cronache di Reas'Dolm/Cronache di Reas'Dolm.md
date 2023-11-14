@@ -10,7 +10,7 @@ Questa prima campagna comincia a [[Zimnio]] ed è svolta con un party sempre piu
 
 # Le sessioni
 
-[[Log campagna]]
+[[0-Log campagna]]
 
 # Personaggi
 

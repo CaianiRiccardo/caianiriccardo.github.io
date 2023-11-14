@@ -2,7 +2,8 @@
 title: Il mondo di Reas'Dolm
 type: home
 name: Il mondo di Reas'Dolm
-tags: [Cronache-di-Reas'Dolm]
+tags: 
+- Cronache-di-Reas'Dolm
 ---
 
 Questo è il mondo di Reas'Dolm, creato da [Angelo](https://www.instagram.com/angy_ndz_/?igshid=YmMyMTA2M2Y%3D) e dove in questo mometo stiamo svolgendo una avventura da lui ideata.
