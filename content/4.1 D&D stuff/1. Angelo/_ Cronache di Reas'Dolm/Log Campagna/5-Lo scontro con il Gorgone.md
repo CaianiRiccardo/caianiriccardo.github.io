@@ -1,0 +1,9 @@
+---
+title: 5. Lo scontro con il Gorgone 
+type: Log
+name: 5. Lo scontro con il Gorgone
+campagna: Cronache di Reas'Dolm
+tags: [Log, Cronache-di-Reas'Dolm]
+---
+
+Dopo una notte passata sotto le stelle, gli avventurieri vengono svegliati dall'arrivo di una carrozza scoprendo che [Ezio](Ezio%20Auditore.md) è sparito con 1/4 degli smeraldi. Accompagnata dal mezzo è la [Prof.ssa Edna Fuume](Professoressa%20Edna%20Fuume.md), l'archeologa assegnata alla spedizione dalla Andalin Corporation. Dopo le prime presentazioni il nuovo gruppo torna ad investigare le rovine, con le nuove informazioni portate dalla professoressa. Preso l'unico percorso non bloccato si trovano di fronte ad un animale, fatto di acciaio che blocca la strada: un Gorgone. Dopo il combattimento ridotto al corridoio, quando l'ultima ventata di alito velenoso si posa si accorgono che [Sayomi](Sayomi%20Zenko.md) è rimasto pietrificato assieme a tutti i suoi oggetti, tranne la [spada](Nodachi.md) e la borsa degli smeraldi. Inabilitati dal muovere il compagno decidono di avvisare [[Jean Pierre]] di chiedere aiuto alla guardia cittadina, mentre loro finiscono di controllare il giardino che proteggeva il Gorgone trovando strani alberi e frutti non riconoscibili fino a che dei passi non si sentono dal corridoio opposto da quello che sono arrivati. Quello che esce, e che viene subito neutralizzato da [Malec](Malec%20Sulenet.md) ed [Edna](Professoressa%20Edna%20Fuume.md), è un piccolo [imp](Diavoli.md) che porta con se un carro. Seguendo da dove arriva l'essere i due riescono a trovare il secondo passaggio alla prima camera, passante per un semplice magazzino dalle porte chiuse. Tornati al punto di partenza si incontrano con le guardie venute a controllare la situazione del dragonide. Decidono in un'animo di aspettare qualche momento per poi controllare l'ultima stanza rimasta.

@@ -1,0 +1,9 @@
+---
+title: 4. La città sul lago 
+type: Log
+name: 4. La città sul lago
+campagna: Cronache di Reas'Dolm
+tags: [Log, Cronache-di-Reas'Dolm]
+---
+
+Gli avventurieri si fermano in qualche cittadina sulla strada per cercare di far valutare ed identificare qualche oggetto, cercando di evitarne il più possibile dato che hanno con se un drago che devono nascondere. Fino a quando durante un normale giorno di viaggio non vengono assaliti da un gruppo di Gnoll da cui, dopo una breve faida, sono costretti a fuggire dato che [[Malec]] é stato atterrato e un enorme verme di sabbia cerca di mangiare sia li Gnoll che loro. Riescono finalmente ad arrivare a [[Luminus]] con due giorni di anticipo che usano per fare compere e finire di identificare gli oggetti rimasti, comprando 2 [[_inventario|bag of holding]] per contenere i tesori della caverna del drago. Nel cercare informazioni su quello che rappresentavano le nicchie e le statue nelle rovine del drago si imbattono nella malavita della città che da filo da torcere a [[Ezio Auditore|Ezio]] che cerca di entrare nelle loro grazie convincendo il sindaco a firmare una legge a loro favore. Il giorno dopo contattano la corporazione che avvisa di una collaborazione fra loro e un archeologo del museo di [[Lisenia]]. decidono di aspettarlo alle rovine il giorno seguente e si incamminano ancora. Arrivati alle rovine impiantano le tende e si addentrano al primo piano di esse notando la presenza di murali ed affreschi rappresentanti la figura mitologica dell'[[Tayo Nohono|uomo pollo]]. Mentre ispezionano la stanza in fondo alle scale cinque armature si animano e attaccano il gruppo. Una volta usciti vittoriosi due porte si aprono agli antipodi della stanza ma preferiscono recuperare le forze ed affrontare il resto della struttura il giorno seguente con anche l'aiuto dell'archeologo.
